@@ -6,7 +6,7 @@ build-name := OMFGB-Mecha
 include vendor/omfgb/products/nightly-version.mk
 
 # Setup device specific product configuration.
-PRODUCT_NAME := OMFGB_mecha
+PRODUCT_NAME := SHIFTAO5P
 PRODUCT_BRAND := verizon_wwe
 PRODUCT_DEVICE := mecha
 PRODUCT_MODEL := SHIFTAO5PBOLT
