@@ -8,7 +8,7 @@ else ifeq ($(TARGET_PRODUCT),OMFGB_supersonic)
   PRODUCT_MAKEFILES := $(LOCAL_DIR)/omfgb_supersonic.mk
 else ifeq ($(TARGET_PRODUCT),OMFGB_inc)
   PRODUCT_MAKEFILES := $(LOCAL_DIR)/omfgb_inc.mk
-else ifeq ($(TARGET_PRODUCT),OMFGB_mecha)
+else ifeq ($(TARGET_PRODUCT),SHIFTAO5P)
   PRODUCT_MAKEFILES := $(LOCAL_DIR)/omfgb_mecha.mk
 else ifeq ($(TARGET_PRODUCT),OMFGB_vivow)
   PRODUCT_MAKEFILES := $(LOCAL_DIR)/omfgb_vivow.mk
