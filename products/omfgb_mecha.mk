@@ -1,7 +1,7 @@
 $(call inherit-product, device/htc/mecha/mecha.mk)
 $(call inherit-product, vendor/omfgb/products/common.mk)
 
-build-name := OMFGB-Mecha
+build-name := SHIFTAO5P
 
 include vendor/omfgb/products/nightly-version.mk
 
